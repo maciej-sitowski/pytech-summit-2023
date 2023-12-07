@@ -5,4 +5,5 @@ To jest pierwsza dokumentacja
 
 .. toctree::
 
-    self
+    pages/pierwsza
+    pages/druga
